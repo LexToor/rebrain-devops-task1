@@ -2,7 +2,7 @@
 
 Репозитарий предназначен для отработки практических навыков с распределённой системой контроля версий GIT, в рамках [`Онлайн-практикума Devops`](https://lk.rebrainme.com/devops?page=tasks&module_id=7).
 
-> На текущий момент здесь зафиксирован результат выполнения задания [`GIT 04: Описание репозитория в README.md`](https://lk.rebrainme.com/devops/task/114)
+> На текущий момент здесь зафиксирован результат выполнения задания [`GIT 05: Файл gitignore`](https://lk.rebrainme.com/devops/task/115)
 
 ## Installation
 
